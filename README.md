@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="200"/>
 </div>
-<h2>Howdy :wave:</h2>
+<h2>Howdy, I'm Bob - also known as BoDonkey or just Bo after my Sicilian mini-ass :wave:</h2>
 <div id="badges" align="center">
 <a href="https://linkedin.com/in/robertmeans1">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
