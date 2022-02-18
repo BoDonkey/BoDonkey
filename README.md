@@ -49,7 +49,7 @@ Tech evangelist developing with Node, React, PHP, HTML, and CSS
 
 ---
 
-### :writing_hands: Writing and software products:
+### :writing_hand: Writing and software products:
 - [API documentation]( https://github.com/Pinegrow/PinegrowDevelopersDocumentation)
 - [Technical (mostly) writing](https://robertmeans.net)
 - [Plugins](https://plugins.springhilldesign.net)
