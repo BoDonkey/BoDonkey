@@ -20,7 +20,7 @@
 ---
 
 ### :technologist: About Me:
-Tech evangelist developing with Node, React, PHP, HTML, and CSS-
+Tech evangelist developing with Node, React, PHP, HTML, and CSS
 
 - :telescope: Currently a technical writer and developer liaison
 
@@ -39,17 +39,18 @@ Tech evangelist developing with Node, React, PHP, HTML, and CSS-
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
   </div>
-<!--
-**BoDonkey/BoDonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BoDonkey&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoDonkey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![BoDonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoDonkey&show_icons=true&theme=radical)
+
+---
+
+### :writing_hands: Writing and software products:
+- [API documentation]( https://github.com/Pinegrow/PinegrowDevelopersDocumentation)
+- [Technical (mostly) writing](https://robertmeans.net)
+- [Plugins](https://plugins.springhilldesign.net)
+- [Scientific manuscripts](https://www.ncbi.nlm.nih.gov/myncbi/1fObabMAcjkAR/bibliography/public/)
