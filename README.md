@@ -25,9 +25,9 @@ Tech evangelist developing with Node, React, PHP, HTML, and CSS
 
 - :telescope: Currently a technical writer and developer liaison
 
-- :seedling: Exploring Typescript and R
+- :seedling: Exploring Typescript, R, and C3 for Unity
 
-- :zap: In my free time I run a small farm and do cancer research :wink: No [really!](https://medicine.yale.edu/profile/robert_means/)
+- :zap: In my free time I run a small farm and do cancer, virus, and cell death research :wink: No [really!](https://medicine.yale.edu/profile/robert_means/)
   
 ---
 
