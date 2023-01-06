@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/13168224/211012939-cd172c3b-81ff-49f6-927a-629e2bf29613.png")>
 </div>
 <h2>Howdy :wave: <br>
 I'm Bob - also known as BoDonkey or just Bo after my Sicilian mini-ass </h2>
@@ -14,20 +15,17 @@ I'm Bob - also known as BoDonkey or just Bo after my Sicilian mini-ass </h2>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
 ### :technologist: About Me:
-Tech evangelist developing with Node, React, PHP, HTML, and CSS
+Tech evangelist developing with Node, Angular, PHP, HTML, and CSS
 
 - :telescope: Currently a technical writer and developer liaison
 
 - :seedling: Exploring Typescript, R, and C# for Unity. Playing around with ServiceNow.
 
-- :zap: In my free time I run a small farm and do cancer, virus, and cell death research :wink: No [really!](https://medicine.yale.edu/profile/robert_means/)
+- :zap: In my free time I run a small farm and I used to do cancer, virus, and cell death research :wink: No [really!](https://pubmed.ncbi.nlm.nih.gov/?term=Means%2C+re)
   
 ---
 
@@ -35,7 +33,7 @@ Tech evangelist developing with Node, React, PHP, HTML, and CSS
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
